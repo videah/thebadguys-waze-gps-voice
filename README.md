@@ -1,3 +1,5 @@
+![](images/social-media-banner.jpeg)
+
 This repo serves as an archive for The Bad Guys 2 promotional Waze sidekick pack, featuring a plethora of Mr Wolf voice lines for GPS navigation and some artwork of his car and his uh, head as a car?
 
 These files were obtained from a rooted Android emulator and inspection of HTTP requests between the Waze app and their CDN.
